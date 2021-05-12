@@ -1,0 +1,19 @@
+altgraph==0.17
+future==0.18.2
+importlib-metadata==4.0.1
+packaging==20.9
+pefile==2019.4.18
+pyinstaller @ https://github.com/pyinstaller/pyinstaller/archive/develop.zip
+pyinstaller-hooks-contrib==2021.1
+pyparsing==2.4.7
+pypiwin32==223
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.15.2.0
+pywin32==300
+pywin32-ctypes==0.2.0
+sip==6.0.3
+toml==0.10.2
+typing-extensions==3.10.0.0
+zipp==3.4.1
