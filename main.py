@@ -171,6 +171,3 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     ex = WordToPDF()
     sys.exit(app.exec_())
-
-#  411726018 003 JC00002陈家春
-#
